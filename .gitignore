@@ -1,0 +1,18 @@
+# Sanal ortam klasörü
+venv/
+.env
+
+# Python derleme dosyaları
+*.pyc
+__pycache__/
+
+# Django veritabanı dosyaları
+*.sqlite3
+*.db
+
+# IDE ve editör yapılandırma dosyaları
+.vscode/
+.idea/
+
+# Çıkış dosyaları
+*.log
